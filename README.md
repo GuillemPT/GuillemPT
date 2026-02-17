@@ -1,9 +1,21 @@
+<!-- 
+  👋 Welcome to your new GitHub profile! 
+  📝 Customize this README by updating:
+  - Your name and professional title
+  - Social media links (LinkedIn, Twitter, etc.)
+  - Email address
+  - Tech stack badges to match your skills
+  - Featured projects section
+  - Any other personal information
+-->
+
 <div align="center">
   
 # 👋 Hi, I'm Guillem
 
 ### 💻 Software Developer | 🚀 Problem Solver | 🌟 Tech Enthusiast
 
+<!-- Update these links with your actual social media profiles -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/guillempt)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/GuillemPT)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:guillem@example.com)
@@ -96,9 +108,19 @@ I'm a passionate software developer with a strong focus on building efficient, s
 
 ## 💼 Featured Projects
 
+<!-- 
+  Replace the repository names below with your actual projects.
+  You can add multiple project cards by duplicating the pattern below.
+  Example: &repo=your-project-name
+-->
+
 <div align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuillemPT&repo=GuillemPT&theme=radical&hide_border=true)](https://github.com/GuillemPT/GuillemPT)
+
+<!-- Add more projects here:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuillemPT&repo=another-project&theme=radical&hide_border=true)](https://github.com/GuillemPT/another-project)
+-->
 
 </div>
 
@@ -107,6 +129,8 @@ I'm a passionate software developer with a strong focus on building efficient, s
 ## 📫 Let's Connect!
 
 I'm always open to interesting conversations and collaboration opportunities!
+
+<!-- Update these links with your actual contact information and social profiles -->
 
 <div align="center">
 
