@@ -114,7 +114,7 @@ I'm a passionate Software Engineer with expertise in backend development, cloud-
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=GuillemPT&repo=GuillemPT&theme=radical&hide_border=true)](https://github.com/GuillemPT/GuillemPT)
 
 <!-- Add more projects here:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuillemPT&repo=another-project&theme=radical&hide_border=true)](https://github.com/GuillemPT/another-project)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=GuillemPT&repo=another-project&theme=radical&hide_border=true)](https://github.com/GuillemPT/another-project)
 -->
 
 </div>
