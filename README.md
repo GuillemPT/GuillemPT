@@ -71,9 +71,9 @@ I'm a passionate Software Engineer with expertise in backend development, cloud-
 
 <div align="center">
   
-![Guillem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuillemPT&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Guillem's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GuillemPT&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillemPT&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GuillemPT&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GuillemPT&theme=radical&hide_border=true)
 
@@ -85,7 +85,7 @@ I'm a passionate Software Engineer with expertise in backend development, cloud-
 
 <div align="center">
   
-![Trophies](https://github-profile-trophy.vercel.app/?username=GuillemPT&theme=radical&no_frame=true&no_bg=true&margin_w=4&column=7)
+![Trophies](https://github-trophies.vercel.app/?username=GuillemPT&theme=radical&no_frame=true&no_bg=true&margin_w=4&column=7)
 
 </div>
 
@@ -111,7 +111,7 @@ I'm a passionate Software Engineer with expertise in backend development, cloud-
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuillemPT&repo=GuillemPT&theme=radical&hide_border=true)](https://github.com/GuillemPT/GuillemPT)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=GuillemPT&repo=GuillemPT&theme=radical&hide_border=true)](https://github.com/GuillemPT/GuillemPT)
 
 <!-- Add more projects here:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuillemPT&repo=another-project&theme=radical&hide_border=true)](https://github.com/GuillemPT/another-project)
