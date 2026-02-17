@@ -85,7 +85,7 @@ I'm a passionate Software Engineer with expertise in backend development, cloud-
 
 <div align="center">
   
-![Trophies](https://github-profile-trophy.vercel.app/?username=GuillemPT&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=GuillemPT&theme=radical&no_frame=true&no_bg=true&margin_w=4&column=7)
 
 </div>
 
