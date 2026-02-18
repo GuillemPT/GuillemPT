@@ -16,20 +16,11 @@
 
 ## 🚀 About Me
 
-I'm a passionate Software Engineer with expertise in backend development, cloud-native architecture, and AI integration. Currently working at **Loriot** in Valencia, I specialize in building high-performance, scalable systems using modern technologies.
+I'm Guillem, a Software Engineer based in Valencia 🇪🇸. I love building things that work well and are a pleasure to maintain — writing good code is, for me, a form of craft.
 
-- 💼 **Currently:** Software Engineer at Loriot (October 2023 - Present)
-  - Leading backend development and architectural migrations to Go
-  - Technical Lead for AI initiatives, implementing ML-based solutions for anomaly detection
-  - Managing Kubernetes clusters with 50+ containers and zero-downtime deployments
-  
-- 🎓 **Education:**
-  - Master's in Software Systems Engineering - Polytechnic University of Valencia
-  - Bachelor's in Computer Engineering - Jaume I University
+When I'm not at the keyboard, you'll probably find me somewhere in the mountains 🏔️, camera in hand 📷, or planning the next trip to somewhere I've never been. I believe the best ideas come when you step away from the screen.
 
-- 🌱 **Interests:** Developer Experience (DX), Distributed Systems, Cloud-native Architecture, Open Source
-- 🏔️ **Outside of Tech:** Hiking, Photography, Traveling (always looking for the next mountain to climb)
-- ⚡ **Impact:** Led projects 20% ahead of schedule, reduced API latency by 25%, improved test coverage to 80%
+I'm genuinely curious, always learning, and I enjoy collaborating with people who care about what they build.
 
 ---
 
